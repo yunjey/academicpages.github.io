@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Clova AI Research, NAVER. I do research in computer vision and machine learning. My interests have been on learning models without human supervision (Unsupervised Learning) and developing machines that can realize our visual imagination (Generative Modeling). I received B.S. and M.S. in Computer Science, both at Korea University. During my Master's program, I was advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/).
+I am a Research Scientist at NAVER AI LAB. I do research in computer vision and machine learning. My interests have been on learning models without human supervision (Unsupervised Learning) and developing machines that can realize our visual imagination (Generative Modeling). I received B.S. and M.S. in Computer Science, both at Korea University. During my Master's program, I was advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/).
 
 Publications
 ======
