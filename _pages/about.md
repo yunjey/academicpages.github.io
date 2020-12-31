@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-with the goal of building intelligent machines, capable of recreating our visual world.
-
 I am a research scientist at [NAVER AI Lab](https://www.facebook.com/NAVERAILAB), working on computer vision and machine learning. My research interests have been on learning models without human supervision (unsupervised learning) and developing machines that can realize our visual imagination (generative modeling). I received B.S. and M.S. in Computer Science, both at Korea University. During my Master's program, I was advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/).
 
 Publications
