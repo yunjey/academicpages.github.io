@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunjey Choi"
   avatar           : "profile.jpg"
-  bio              : "Researcher at NAVER AI Lab. <br/> Working on generative models"
+  bio              : "Researcher at NAVER AI Lab. <br/> Working on generative models."
   #location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=v_4lOaAAAAAJ&hl=en"
