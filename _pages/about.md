@@ -13,6 +13,8 @@ I am a research scientist at [NAVER AI Lab](https://www.facebook.com/NAVERAILAB)
 Publications
 ======
 
+**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**<br/>Hyunsu Kim, **Yunjey Choi**, Junho Kim, Sungjoo Yoo, Youngjung Uh<br/>CVPR 2021 <br/> [Paper (TBA)]() \| [Code (TBA)]() |
+
 **Rethinking the Truly Unsupervised Image-to-Image Translation**<br/>Kyungjune Baek, **Yunjey Choi**, Youngjung Uh, Jaejun Yoo, Hyunjung Shim<br/>arXiv preprint <br/> [Paper](https://arxiv.org/abs/2006.06500) \| [Code](https://github.com/clovaai/tunit) |
 
 **Reliable Fidelity and Diversity Metrics for Generative Models**<br/>Muhammad Ferjad Naeem\*, Seong Joon Oh\*, Youngjung Uh, **Yunjey Choi**, Jaejun Yoo<br/> ICML 2020 (* indicates equal contribution) <br/> [Paper](https://arxiv.org/abs/2002.09797) \| [Code](https://github.com/clovaai/generative-evaluation-prdc) |
