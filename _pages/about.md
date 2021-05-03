@@ -15,7 +15,7 @@ Publications
 
 **Rethinking the Truly Unsupervised Image-to-Image Translation**<br/>Kyungjune Baek, **Yunjey Choi**, Youngjung Uh, Jaejun Yoo, Hyunjung Shim<br/>arXiv preprint <br/> [Paper](https://arxiv.org/abs/2006.06500) \| [Code](https://github.com/clovaai/tunit) |
 
-**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**<br/>Hyunsu Kim, **Yunjey Choi**, Junho Kim, Sungjoo Yoo, Youngjung Uh<br/>CVPR 2021 <br/> [Paper](https://arxiv.org/abs/2104.14754) \| [Code](https://github.com/naver-ai/StyleMapGAN) | [Video](https://www.youtube.com/watch?v=qCapNyRA_Ng) |
+**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**<br/>Hyunsu Kim, **Yunjey Choi**, Junho Kim, Sungjoo Yoo, Youngjung Uh<br/>CVPR 2021 <br/> [Paper](https://arxiv.org/abs/2104.14754) \| [Code](https://github.com/naver-ai/StyleMapGAN) \| [Video](https://www.youtube.com/watch?v=qCapNyRA_Ng) |
 
 **Reliable Fidelity and Diversity Metrics for Generative Models**<br/>Muhammad Ferjad Naeem\*, Seong Joon Oh\*, Youngjung Uh, **Yunjey Choi**, Jaejun Yoo<br/> ICML 2020 (* indicates equal contribution) <br/> [Paper](https://arxiv.org/abs/2002.09797) \| [Code](https://github.com/clovaai/generative-evaluation-prdc) |
 
